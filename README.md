@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sachin Dumbre</h1>
 <h3 align="center">Aspiring Full-Stack Developer | Passionate about building scalable, user-focused web applications</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachincoder11&label=Profile%20views&color=0e75b6&style=flat" alt="sachincoder11" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachincoder11" alt="sachincoder11" /></a> </p>
 
 - 🔭 I’m currently working on **Music app**
 
@@ -17,9 +14,7 @@
 
 - 📄 Know about my experiences [https://github.com/SachinCoder11/Resume-](https://github.com/SachinCoder11/Resume-)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
