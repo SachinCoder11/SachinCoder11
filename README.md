@@ -8,11 +8,11 @@
 
 - 👯 I’m looking to collaborate on **Flix-tube**
 
-- 👨‍💻 All of my projects are available at [sachin-coder-1154.vercel.app/](https://sachin-coder-1154.vercel.app)
+
 
 - 📫 How to reach me **sdineshdumbre@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/SachinCoder11/Resume-](https://github.com/SachinCoder11/Resume-)
+
 
 
 
