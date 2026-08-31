@@ -28,7 +28,7 @@
 
 ### 🧭 Quick navigation
 
-[About](#-about-me) · [Focus](#-current-focus) · [Stack](#️-technology-toolkit) · [Featured build](#-featured-build--fintech-data-analytics--ai-platform) · [Projects](#-selected-projects) · [Journey](#-developer-journey) · [Activity](#-github-activity)
+[About](#-about-me) · [Focus](#-current-focus) · [Toolkit](#️-data-toolkit) · [Featured build](#-featured-build--fintech-data-analytics--ai-platform) · [Projects](#-previous-development-projects) · [Journey](#-data-science-journey) · [Activity](#-github-activity)
 
 </div>
 
@@ -160,18 +160,18 @@ Business insights + AI-assisted interpretation
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,12,20&height=72&section=header&text=Developer%20Journey&fontSize=30&fontColor=fff&fontAlignY=66&animation=fadeIn" alt="Developer Journey" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,12,20&height=72&section=header&text=Data%20Science%20Journey&fontSize=30&fontColor=fff&fontAlignY=66&animation=fadeIn" alt="Data Science Journey" width="100%" />
 </div>
 
-## 🗺️ Developer journey
+## 🗺️ Data science journey
 
 ```mermaid
 flowchart LR
-    A[Frontend development] --> B[Full-stack development]
-    B --> C[Data analytics]
-    C --> D[Machine-learning foundations]
+    A[Python & SQL] --> B[Data analysis]
+    B --> C[EDA & visualisation]
+    C --> D[Statistics & ML foundations]
     D --> E[Generative AI]
-    E --> F[AI-powered products]
+    E --> F[Data-driven AI products]
     style A fill:#0ea5e9,stroke:#0284c7,color:#fff
     style B fill:#2563eb,stroke:#1d4ed8,color:#fff
     style C fill:#7c3aed,stroke:#6d28d9,color:#fff
