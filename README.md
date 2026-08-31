@@ -1,171 +1,214 @@
-<h1 align="center">Hi 👋, I'm Sachin Dumbre</h1>
+<div align="center">
+  <!-- Add your future hero/banner image here. Recommended width: 900px. -->
+  <!-- <img src="./your-banner.png" alt="Sachin Dumbre banner" width="900" /> -->
 
-<h3 align="center">
-Full-Stack Developer | Data Science & Analytics Learner | Exploring GenAI
-</h3>
+  # 📊 Hi, I'm Sachin Dumbre
 
-<p align="center">
-Building practical, user-focused applications and data-driven solutions.
-</p>
+  **Data Science & Analytics Learner · Exploring Generative AI**
 
----
+  <a href="https://github.com/sachincoder11">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&lines=Exploring+data%2C+analytics+%26+Generative+AI;FinTech+%2B+Data+%2B+AI;From+raw+data+to+useful+insight;Learning+by+building+data-driven+projects" alt="Typing introduction" />
+  </a>
 
-### 🚀 About Me
+  <br />
 
-* 🔭 Currently working on **FinTech Data Analytics & AI projects**
-* 🌱 Currently learning **Data Science, Machine Learning, GenAI, Python, SQL & Advanced Analytics**
-* 💻 Building applications with **React, Next.js, Node.js and modern web technologies**
-* 📊 Exploring **EDA, data visualization, statistical analysis and automated insights**
-* 🤖 Interested in building **AI-powered applications and intelligent data analysis pipelines**
-* 🧠 Currently working on projects that combine **Finance + Data + AI**
-* 🤝 Open to collaborating on **Full-Stack, Data Science, AI and FinTech projects**
-* 📫 Reach me at **[sdineshdumbre@gmail.com](mailto:sdineshdumbre@gmail.com)**
+  <a href="mailto:sdineshdumbre@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sachin" /></a>
+  <a href="https://dev.to/sachincoder"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Sachin on Dev.to" /></a>
+  <a href="https://github.com/sachincoder11"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Sachin on GitHub" /></a>
 
----
+  <br /><br />
 
-### 🛠️ Languages & Technologies
-
-#### 💻 Programming & Web Development
-
-<p align="left">
-<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
-<a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://nextjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/></a>
-<a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/></a>
-</p>
-
-#### 📊 Data Science & Analytics
-
-<p align="left">
-<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-<a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
-<a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/></a>
-<a href="https://matplotlib.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/></a>
-<a href="https://scikit-learn.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/></a>
-</p>
-
-#### 🗄️ Databases
-
-<p align="left">
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.sqlite.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-icon.svg" width="40" height="40"/></a>
-</p>
-
-#### 🤖 AI / GenAI
-
-* Generative AI
-* RAG Applications
-* Embeddings & Vector Databases
-* LLM-powered applications
-* AI-assisted data analysis
-* Hugging Face
-* Ollama
-* ChromaDB
-* Sentence Transformers
-
-#### 🔧 Tools & Platforms
-
-<p align="left">
-<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-<a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
-<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></a>
-</p>
+  <img src="https://img.shields.io/badge/🤝_Collaboration-Open-0EA5E9?style=for-the-badge&labelColor=0F172A" alt="Open to collaboration" />
+  <img src="https://img.shields.io/badge/🎯_Current_Direction-FinTech_%2B_Data_%2B_AI-A855F7?style=for-the-badge&labelColor=0F172A" alt="Current direction: FinTech Data AI" />
+</div>
 
 ---
 
-### 📌 Current Projects
+<div align="center">
 
-#### 💰 FinTech Data Analytics & AI Platform
+### 🧭 Quick navigation
 
-A data-analysis platform designed to process financial datasets and automatically identify:
+[About](#-about-me) · [Focus](#-current-focus) · [Stack](#️-technology-toolkit) · [Featured build](#-featured-build--fintech-data-analytics--ai-platform) · [Projects](#-selected-projects) · [Journey](#-developer-journey) · [Activity](#-github-activity)
 
-* Business trends
-* Revenue and cost patterns
-* Outliers and anomalies
-* Potential causes of losses
-* Profitability opportunities
-* Data-quality issues
-* Actionable business insights
-
-**Focus:** Python • Pandas • EDA • Data Visualization • SQL • GenAI
+</div>
 
 ---
 
-### 🌐 Full-Stack Projects
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,12,20&height=72&section=header&text=About%20Me&fontSize=30&fontColor=fff&fontAlignY=66&animation=fadeIn" alt="About Me" width="100%" />
+</div>
 
-Some of the technologies and projects I've worked with include:
+## 👋 About me
 
-* **Blood Bank Management System**
-* **Real Estate Applications**
-* **Villa / Weekender Booking Platform**
-* **TravelNexus**
-* **React-based productivity applications**
-* **AI-powered web application experiments**
+```ts
+const sachin = {
+  role: "Data Science & Analytics Learner",
+  building: "Data-driven systems and practical analytical projects",
+  direction: "FinTech + Data + Generative AI",
 
----
+  exploring: [
+    "Exploratory data analysis, statistics, and visualisation",
+    "AI-assisted analytics and LLM applications",
+    "Financial analytics and data-driven problem solving",
+  ],
 
-### 📚 Currently Learning
-
-```text
-Data Science
-├── Python
-├── NumPy & Pandas
-├── Exploratory Data Analysis
-├── Statistics
-├── Data Visualization
-├── SQL
-└── Machine Learning
-
-Generative AI
-├── LLM Applications
-├── RAG
-├── Embeddings
-├── Vector Databases
-└── AI-powered Analytics
-
-Full-Stack Development
-├── React
-├── Next.js
-├── Node.js
-├── TypeScript
-├── Tailwind CSS
-└── MongoDB
+  principle: "Build thoughtfully. Learn deeply. Make data useful.",
+};
 ```
 
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-<a href="https://dev.to/sachincoder" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sachincoder" height="30" width="40" />
-</a>
-</p>
+I’m interested in products that do more than display information: systems that **analyze data, surface patterns, and help people make better decisions**.
 
 ---
 
-### 📊 GitHub Stats
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=72&section=header&text=Current%20Focus&fontSize=30&fontColor=fff&fontAlignY=66&animation=fadeIn" alt="Current Focus" width="100%" />
+</div>
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachincoder11&show_icons=true&locale=en&layout=compact" alt="sachincoder11" />
-</p>
+## 🧠 Current focus
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachincoder11&show_icons=true&locale=en" alt="sachincoder11" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachincoder11" alt="sachincoder11" />
-</p>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>📊 Data &amp; analytics</h3>
+      Python<br />Pandas · NumPy<br />EDA · statistics · SQL<br />Data visualisation<br />Machine-learning foundations
+    </td>
+    <td width="33%" valign="top">
+      <h3>🤖 Generative AI</h3>
+      LLM applications<br />RAG<br />Embeddings<br />Vector databases<br />AI-assisted analytics
+    </td>
+    <td width="33%" valign="top">
+      <h3>💰 Applied direction</h3>
+      FinTech analytics<br />Financial datasets<br />Business insights<br />Data-driven decision support
+    </td>
+  </tr>
+</table>
 
 ---
 
-<p align="center">
-<i>Building. Learning. Experimenting. Turning data into useful products.</i>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,24,25&height=72&section=header&text=Data%20Toolkit&fontSize=30&fontColor=fff&fontAlignY=66&animation=fadeIn" alt="Data Toolkit" width="100%" />
+</div>
+
+## 🛠️ Data toolkit
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,mysql,postgres,sqlite,mongodb,git,docker&theme=dark&perline=7" alt="Data toolkit icons: Python, MySQL, PostgreSQL, SQLite, MongoDB, Git, and Docker" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+
+**Data & analytics** · Python · Pandas · NumPy · Matplotlib · Seaborn · scikit-learn · SQL
+
+**GenAI exploration** · RAG · LLM applications · embeddings · vector databases · Hugging Face · Ollama · ChromaDB · Sentence Transformers
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24,25,6&height=72&section=header&text=Featured%20Build&fontSize=30&fontColor=fff&fontAlignY=66&animation=fadeIn" alt="Featured Build" width="100%" />
+</div>
+
+## 🚀 Featured build — FinTech Data Analytics &amp; AI Platform
+
+> A data-analysis platform in progress, designed to transform raw financial datasets into a clearer view of business performance and potential next steps.
+
+```text
+Raw financial data
+       ↓
+Cleaning & quality checks
+       ↓
+EDA + statistical analysis
+       ↓
+Visualisation + pattern detection
+       ↓
+Business insights + AI-assisted interpretation
+```
+
+| Designed to investigate | |
+| :--- | :--- |
+| **Performance** | Revenue and cost patterns · financial trends · profitability opportunities |
+| **Risk & quality** | Outliers · anomalies · data-quality issues · loss investigation |
+| **Insight** | Automated insights and AI-assisted interpretation |
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/GenAI-7C3AED?style=for-the-badge" alt="Generative AI" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=25,6,12&height=72&section=header&text=Selected%20Projects&fontSize=30&fontColor=fff&fontAlignY=66&animation=fadeIn" alt="Selected Projects" width="100%" />
+</div>
+
+## 🌐 Previous development projects
+
+| Project | What it is | Stack |
+| :--- | :--- | :--- |
+| 🩸 **Blood Bank Management System** | A web interface for blood-bank workflows. | React · Tailwind CSS |
+| 🏠 **Real Estate Applications** | Full-stack applications for real-estate use cases. | React · Node.js · Express · MySQL |
+| 🏡 **Weekender / Villa Booking Platform** | A booking-oriented full-stack product. | React · Vite · Tailwind CSS · Node.js · MySQL |
+| ✈️ **TravelNexus** | A travel-focused web application. | HTML · CSS · JavaScript · PHP |
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,12,20&height=72&section=header&text=Developer%20Journey&fontSize=30&fontColor=fff&fontAlignY=66&animation=fadeIn" alt="Developer Journey" width="100%" />
+</div>
+
+## 🗺️ Developer journey
+
+```mermaid
+flowchart LR
+    A[Frontend development] --> B[Full-stack development]
+    B --> C[Data analytics]
+    C --> D[Machine-learning foundations]
+    D --> E[Generative AI]
+    E --> F[AI-powered products]
+    style A fill:#0ea5e9,stroke:#0284c7,color:#fff
+    style B fill:#2563eb,stroke:#1d4ed8,color:#fff
+    style C fill:#7c3aed,stroke:#6d28d9,color:#fff
+    style D fill:#9333ea,stroke:#7e22ce,color:#fff
+    style E fill:#db2777,stroke:#be185d,color:#fff
+    style F fill:#e11d48,stroke:#be123c,color:#fff
+```
+
+I’m steadily building depth across this path, with the goal of turning data into understandable, useful intelligence—not claiming mastery of every layer.
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=72&section=header&text=GitHub%20Activity&fontSize=30&fontColor=fff&fontAlignY=66&animation=fadeIn" alt="GitHub Activity" width="100%" />
+</div>
+
+## 📊 GitHub activity
+
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sachincoder11&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Sachin Dumbre's GitHub contribution streak" /></a>
+  <br /><br />
+  <img src="https://img.shields.io/github/followers/sachincoder11?label=GitHub%20Followers&style=for-the-badge&logo=github&color=0ea5e9&labelColor=0f172a" alt="GitHub followers" />
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Let’s build something useful
+
+I’m open to collaboration on **data, analytics, AI, and FinTech** projects.
+
+<a href="mailto:sdineshdumbre@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sachin" /></a>
+<a href="https://github.com/sachincoder11"><img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow Sachin on GitHub" /></a>
+
+<br /><br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,25&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=34&fontColor=fff&fontAlignY=72" alt="Thanks for visiting" width="100%" />
+
+</div>
