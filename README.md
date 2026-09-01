@@ -380,7 +380,7 @@ Grounded Answer + File Paths + Line Ranges + Confidence Score
      ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0B0B0B&amp;height=72&amp;section=header&amp;text=Data%20Science%20Journey&amp;fontSize=30&amp;fontColor=FFCA28&amp;fontAlignY=66&amp;animation=fadeIn" alt="Data Science Journey section" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0B0B0B&height=72&section=header&text=Data%20Science%20Journey&fontSize=30&fontColor=FFCA28&fontAlignY=66&animation=fadeIn" alt="Data Science Journey section" width="100%" />
 </div>
 
 ## 🗺️ Data science journey
