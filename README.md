@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,50:1a0a0f,100:0B0B0B&height=200&section=header&text=Sachin%20Dumbre&fontSize=42&fontColor=FFCA28&fontAlignY=38&desc=Data%20Science%20%26%20Analytics%20%C2%B7%20Generative%20AI%20%C2%B7%20Software%20Engineering&descSize=16&descColor=FF1744&descAlignY=58&animation=fadeIn" alt="Sachin Dumbre — Data Science, Analytics, Generative AI, Software Engineering" width="100%" />
+<img src="./header.png" alt="Hi 👋, I'm Sachin Dumbre — Data Science, Analytics, Generative AI, Software Engineering" width="100%" />
 
 <a href="https://github.com/sachincoder11">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&pause=1200&color=FFCA28&center=true&vCenter=true&width=680&lines=Building+data+pipelines+and+analytical+systems;Financial+intelligence+%2B+EDA+%2B+statistical+analysis;RAG+systems+%2B+LLM+applications+%2B+vector+search;From+raw+data+to+verified+insights" alt="Typing animation: Building data pipelines and analytical systems; Financial intelligence + EDA + statistical analysis; RAG systems + LLM applications + vector search; From raw data to verified insights" />
@@ -94,7 +94,7 @@ Web Development → Full-Stack Engineering → Python + SQL → Data Analytics
 <table>
   <tr>
     <td width="25%" valign="top">
-      <h3>📊 Data & Analytics</h3>
+      <h3>📊 Data &amp; Analytics</h3>
       <strong>Core:</strong><br />
       Python · Pandas · NumPy<br />
       SQL · EDA · Matplotlib · Seaborn<br /><br />
@@ -193,7 +193,7 @@ Software Engineering                   ├── Seaborn ···········�
 
 <img src="https://img.shields.io/badge/Status-Active%20Development-FF1744?style=flat-square&labelColor=0B0B0B" alt="Status: Active Development" /> <img src="https://img.shields.io/badge/Category-Data%20%26%20Analytics-FFCA28?style=flat-square&labelColor=0B0B0B" alt="Category: Data and Analytics" />
 
-> A data-analysis pipeline that processes real corporate financial data (P&L statements from XBRL filings), performs deterministic financial and statistical analysis, and presents verified findings. The AI layer is deliberately downstream — it explains structured findings, not raw data.
+> A data-analysis pipeline that processes real corporate financial data (P&amp;L statements from XBRL filings), performs deterministic financial and statistical analysis, and presents verified findings. The AI layer is deliberately downstream — it explains structured findings, not raw data.
 
 ### Pipeline architecture
 
@@ -204,7 +204,7 @@ Data validation · quality checks · missing-data assessment
         ↓
 Period filtering · schema normalization · revenue validation
         ↓
-Metric derivation (profit margins, cost ratios, R&D intensity)
+Metric derivation (profit margins, cost ratios, R&amp;D intensity)
         ↓
 Statistical analysis · distribution checks · outlier detection
         ↓
@@ -222,7 +222,7 @@ Context-aware dashboard (planned)
 | Domain | Scope |
 | :--- | :--- |
 | **Financial metrics** | Revenue, expenses, profit/loss, savings rate, profit margins, expense ratios |
-| **Cost analysis** | Finance-cost burden, employee-cost ratios, R&D intensity |
+| **Cost analysis** | Finance-cost burden, employee-cost ratios, R&amp;D intensity |
 | **Statistical patterns** | Distribution analysis, skewness checks, IQR outlier detection |
 | **Correlations** | Revenue–expense relationship, finance-cost vs. margin, cross-variable matrix |
 | **Data quality** | Missingness audit (7M+ missing cells in raw data), empty-column removal, duplicate detection |
@@ -231,10 +231,10 @@ Context-aware dashboard (planned)
 
 | Field | Detail |
 | :--- | :--- |
-| **Primary dataset** | XBRL P&L reporting data (company-level financial statements) |
+| **Primary dataset** | XBRL P&amp;L reporting data (company-level financial statements) |
 | **Rows × Columns** | 96,632 × 130 (raw); 45,414 × 19 (cleaned analytical output) |
 | **Reporting period** | FY 2024–25 (current period filter: 2024-04-01 to 2025-03-31) |
-| **Key fields** | Revenue, expenses, profit/loss, tax, finance costs, employee costs, depreciation, R&D |
+| **Key fields** | Revenue, expenses, profit/loss, tax, finance costs, employee costs, depreciation, R&amp;D |
 | **Missing data** | 7,001,669 total missing cells in raw file — handled per-metric, documented |
 | **Derived dataset** | `MCA_PL_FY2024_25_Clean_Analysis.csv` — revenue-positive records with calculated ratios |
 | **External source URL** | To be documented |
@@ -286,11 +286,11 @@ Context-aware dashboard (planned)
 
 **Status indicators:** 🟢 Active · 🟡 In Progress · 🔵 Completed · ⚪ Archived · 🧪 Experimental
 
-### 📊 Data & Analytics
+### 📊 Data &amp; Analytics
 
 | Project | Description | Tech | Status |
 | :--- | :--- | :--- | :---: |
-| **[Financial Intelligence Pipeline](https://github.com/sachincoder11/Automated_Financial_Intelligence_Pipeline)** | Deterministic financial analysis of 96K+ corporate P&L records — metric derivation, statistical patterns, outlier detection, and correlation analysis with documented data provenance | Python · Pandas · NumPy · SQL · Matplotlib · Seaborn | 🟢 |
+| **[Financial Intelligence Pipeline](https://github.com/sachincoder11/Automated_Financial_Intelligence_Pipeline)** | Deterministic financial analysis of 96K+ corporate P&amp;L records — metric derivation, statistical patterns, outlier detection, and correlation analysis with documented data provenance | Python · Pandas · NumPy · SQL · Matplotlib · Seaborn | 🟢 |
 | **[Space Mission EDA](https://github.com/sachincoder11/Space_Mission_EDA_Project)** | Exploratory analysis of 4,324 historical orbital launches (1957–2020) investigating mission reliability, organizational patterns, launch-vehicle frequency, seasonal trends, and price-imputation methodology | Python · Pandas · Matplotlib · Seaborn · Jupyter | 🟡 |
 | **[Aqua-Nova](https://github.com/sachincoder11/Aqua-Nova)** | Data analysis project | Jupyter Notebook | 🟡 |
 
@@ -300,7 +300,7 @@ Context-aware dashboard (planned)
 | :--- | :--- | :--- | :---: |
 | **[Codebase RAG Platform](https://github.com/sachincoder11/Codebase_RAG_Platform)** | Full RAG application for understanding software repositories — upload a ZIP or clone a Git repo, then ask grounded questions with file-level citations and source references | Python · FastAPI · ChromaDB · Ollama · Sentence Transformers · Docker | 🟢 |
 
-### 💻 Web & Full-Stack
+### 💻 Web &amp; Full-Stack
 
 | Project | Description | Tech | Status |
 | :--- | :--- | :--- | :---: |
@@ -380,7 +380,7 @@ Grounded Answer + File Paths + Line Ranges + Confidence Score
      ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0B0B0B&height=72&section=header&text=Data%20Science%20Journey&fontSize=30&fontColor=FFCA28&fontAlignY=66&animation=fadeIn" alt="Data Science Journey section" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0B0B0B&amp;height=72&amp;section=header&amp;text=Data%20Science%20Journey&amp;fontSize=30&amp;fontColor=FFCA28&amp;fontAlignY=66&amp;animation=fadeIn" alt="Data Science Journey section" width="100%" />
 </div>
 
 ## 🗺️ Data science journey
@@ -388,9 +388,9 @@ Grounded Answer + File Paths + Line Ranges + Confidence Score
 ```mermaid
 flowchart LR
     A["Frontend Development\n HTML · CSS · JS"] --> B["Full-Stack Engineering\n React · Node · MySQL"]
-    B --> C["Python & SQL\n scripting · queries · automation"]
+    B --> C["Python &amp; SQL\n scripting · queries · automation"]
     C --> D["Data Analytics\n Pandas · EDA · visualization"]
-    D --> E["Statistics & ML\n distributions · correlations · scikit-learn"]
+    D --> E["Statistics &amp; ML\n distributions · correlations · scikit-learn"]
     E --> F["Generative AI\n RAG · LLMs · embeddings"]
     F --> G["Data-Driven AI Products\n analytical pipelines"]
     style A fill:#0B0B0B,stroke:#FFCA28,color:#fff
